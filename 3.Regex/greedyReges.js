@@ -1,0 +1,1 @@
+let reCriminals = /[C]*C/g; // will check letter C starting or inbetween any strings
